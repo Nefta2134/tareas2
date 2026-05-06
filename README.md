@@ -1,2 +1,2 @@
 # tareas2
-tareas de miguel32222
+tareas de fundamentos de informatica
