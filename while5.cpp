@@ -14,10 +14,10 @@ int main() {
     while (i <=numero)
      {
 
-    if (i % 2 == 0)
+    if (i % 2 == 1)
      {
 
-     suma += i;
+     suma = i+suma;
 
      }
         i++;
